@@ -8852,6 +8852,8 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <sheet>
 <plain>
 <text x="111.76" y="73.66" size="1.778" layer="97">3V Latching Coil.</text>
+<text x="35.56" y="45.72" size="1.778" layer="97">BD6211</text>
+<text x="127" y="88.9" size="1.778" layer="97">Photon or Electron</text>
 </plain>
 <instances>
 <instance part="CONN1" gate="G$1" x="43.18" y="154.94"/>
